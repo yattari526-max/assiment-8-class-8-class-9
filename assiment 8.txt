@@ -1,0 +1,27 @@
+<b><u>IMAGE 1:</u></b>
+
+<ul><b>languages</b></ul>
+
+<li>English</li>
+<li>Spanish</li>
+<li>Japnies</li>
+
+<b>Conting in English</b>
+
+1.One
+2.Two
+3.Three
+
+<ul><b>Counting in other languages</b></ul>
+
+<li>spanish</li>
+
+1.uno
+2.dos
+3.tres
+
+<li>japnies</li>
+
+1.lchi
+2.ni
+3.san

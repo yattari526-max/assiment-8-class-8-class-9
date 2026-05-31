@@ -1,0 +1,21 @@
+<ul><b>IMAGE 2:</b></ul>
+
+<li>Apple</li>
+<li>Banana</li>
+<li>Grapes</li>
+<li>Mango</li>
+<li>Papaya</li>
+
+
+
+
+<ul><b>IMAGE 3:</b></ul>
+
+<li>frouit</li>
+<&nbsp><li>Bananas</li></&nbsp>
+<&nbsp><li>Apples</li></&nbsp>
+<&nbsp><&nbsp><li>Green</li></&nbsp></&nbsp>
+<&nbsp><&nbsp><li>Red</li></&nbsp></&nbsp>
+<&nbsp><li>Pears</li></&nbsp>
+<li>Vegetable</li>
+<li>Meat</li>
